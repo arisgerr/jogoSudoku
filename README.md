@@ -40,20 +40,6 @@ Jogo estruturado usando os fundamentos da Programação Orientada a Objetos para
 
 - GameStatusEnum: Um enum que te conta o status do jogo (em andamento, concluído, com erros…)
 
-# Estrutura do projeto
-
-JogoSudoku/
-
-└── src/
-
-    ├── model/
-    │   ├── Board.java
-    │   ├── GameStatusEnum.java
-    │   └── Space.java
-    ├── util/
-    │   └── BoardTemplate.java
-    └── Main.java
-
 # IDE
 
 - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
